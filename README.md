@@ -23,7 +23,9 @@ e di identità users per le categorie:
 Il materiale è da  considerare attualmente sotto licenza CC BY-SA (Attribuzione - Condividi allo stesso modo).
  
  
-<a rel="license" href="//creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license"><img src="//i.creativecommons.org/l/by/4.0/88x31.png" alt="License"></a>
+<a rel="license" href="//creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license">
+
+<img src="//i.creativecommons.org/l/by/4.0/88x31.png" alt="License"></a>
 
 
 Maintainer: grasso@lamma.rete.toscana.it, v.grasso@ibimet.cnr.it
