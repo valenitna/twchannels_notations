@@ -20,10 +20,7 @@ e di identità users per le categorie:
        * Volunteer_NGO
 
 
-Il materiale è da  considerare attualmente sotto licenza CC BY-SA (Attribuzione - Co dividi allo stesso do).
 
-
- 
- 
 
 Maintainer: grasso@lamma.rete.toscana.it, v.grasso@ibimet.cnr.it
+
