@@ -1,0 +1,16 @@
+names,target,consistency,author,updatedate,affiliation
+emergency,hashtag,NA,NA,NA,NA,NA
+institution,hashtag,NA,NA,NA,NA,NA
+media,hashtag,NA,NA,NA,NA,NA
+mobility,hashtag,NA,NA,NA,NA,NA
+others,hashtag,NA,NA,NA,NA,NA
+outside_places,hashtag,NA,NA,NA,NA,NA
+places,hashtag,NA,NA,NA,NA,NA
+social,hashtag,NA,NA,NA,NA,NA
+time,hashtag,NA,NA,NA,NA,NA
+weather,hashtag,NA,NA,NA,NA,NA
+institution,user,NA,NA,NA,NA,NA
+media,user,NA,NA,NA,NA,NA
+others,user,NA,NA,NA,NA,NA
+volunteer_NGO,user,NA,NA,NA,NA,NA
+weather,user,NA,NA,NA,NA,NA
