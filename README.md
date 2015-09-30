@@ -23,6 +23,9 @@ e di identità users per le categorie:
 
 Maintainer: grasso@lamma.rete.toscana.it, v.grasso@ibimet.cnr.it
 
-Licenza : Il materiale della repository è in CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Licenza : Il materiale della repository è rilasciato sotto Open Database License. (ODbl). 
+
+This {twchannels_notations datarepo} is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ - 
+See more at: http://opendatacommons.org/licenses/odbl/#sthash.miWzGhrY.dpuf
 
 
