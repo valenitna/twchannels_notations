@@ -1,6 +1,6 @@
 # Twitter channels notations
 
-In ogni cartella,che corrisponde ad una canale inteso come query di estrazione dal flusso di conversazione twitter, è possibile trovare in formato csv liste con le annotazioni semantiche degli hashtag raccolti per il periodo di novembre 2014.
+In ogni cartella,che corrisponde ad una canale inteso come query di estrazione dal flusso di conversazione twitter (novembre dicembre 2014), è possibile trovare in formato csv liste con le annotazioni semantiche degli hashtag raccolti
 
 
        * Places 
@@ -12,7 +12,7 @@ In ogni cartella,che corrisponde ad una canale inteso come query di estrazione d
        * Social_media
        * Time
 
-e di identità users per le categorie:
+e annotazioni sulle categorie di users:
 
        * Institution
        * Weather 
